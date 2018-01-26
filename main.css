@@ -1,0 +1,29 @@
+.navigation{
+  text-align: right;
+}
+
+li{
+ list-style: none;
+ display: inline;
+ padding: 5px;
+ font-size: 10px;
+ 
+}
+
+div.logo-container, div.query-container{
+  text-align: center;
+}
+
+div.query-container input{
+  border-radius: 5px;
+  padding: 10px;
+  border: 1px solid black;
+  width: 200px;
+  text-align: center;
+}
+
+img.logo{
+  width: 200px;
+  margin-top: 100px;
+  margin-bottom: 5px;
+}
